@@ -1,4 +1,2 @@
 # lucydacusbot
 # lucydacusbot
-# lucydacusbot
-# lucydacusbot
